@@ -1,4 +1,4 @@
-// src/data/navigationLinks.js
+
 import {
   LayoutDashboard,
   History,
@@ -11,7 +11,7 @@ import {
   Settings
 } from 'lucide-react';
 
-const navigationLinks = [
+const navitem = [
   { label: "Dashboard", icon: LayoutDashboard },
   { label: "History", icon: History },
   { label: "Calendar", icon: CalendarDays },
@@ -23,4 +23,4 @@ const navigationLinks = [
   { label: "Setting", icon: Settings }
 ];
 
-export default navigationLinks;
+export default  navitem;
