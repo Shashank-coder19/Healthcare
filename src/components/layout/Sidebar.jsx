@@ -1,4 +1,4 @@
-import {navitem} from '../../data/navigationLink.js';
+import navitem from '../../data/navigationLink.js';
 
 const Sidebar = () => {
   
